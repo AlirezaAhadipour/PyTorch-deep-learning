@@ -6,4 +6,4 @@ https://github.com/mrdbourke/pytorch-deep-learning
 
 https://www.youtube.com/watch?v=V_xro1bcAuA
 
-till 8:31:33
+till 9:21:38
